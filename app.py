@@ -2,8 +2,8 @@ import streamlit as st
 
 st.set_page_config(page_title="Mini Reto Bash", layout="centered")
 
-st.title("🧪 Mini Reto – Bash Scripting (Actividad Autónoma)")
-st.subheader("Cisco Linux Fundamentals")
+st.title("🧪 Mini Reto – Bash Scripting")
+st.subheader("Linux")
 
 st.write("""
 ⏱️ Instrucciones:
